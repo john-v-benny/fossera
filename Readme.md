@@ -1,4 +1,4 @@
-[Link]!(https://john-v-benny.github.io/fossera/Homepage/Homepage.html)
+Link: https://john-v-benny.github.io/fossera/Homepage/Homepage.html
 
 Welcome to E 'connect, your go-to platform for real-time tracking of essential emergency services in your area. Our cutting-edge technology ensures that you can quickly locate and connect with nearby police, medical practitioners, and fire force personnel whenever you need them most.
 
