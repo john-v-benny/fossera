@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.nav{
+    background-color: orange;
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    grid-template-rows: auto;
+    gap: 100px;
+    align-items: center;
+    color: white;
+}
+
+.heading{
+    padding: 30px;
+    text-align: center;
+    color: orange;
+
+}
+
+.desc{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    padding: 20px;
+}
+
+.Mission{
+    color: orange;
+    flex: 1;
+}
+
+.who{
+    color: orange;
+    flex: 1;
+}
+
+.team{
+    color: orange;
+    flex: 1;
+}
